@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+openai
+python-dotenv
+requests
+geopy
+scikit-learn
+openpyxl
+assemblyai
